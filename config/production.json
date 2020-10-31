@@ -1,0 +1,4 @@
+{
+  "jwtSecureKey": "mySecureKey",
+  "db": "MONGODB_URL"
+}
