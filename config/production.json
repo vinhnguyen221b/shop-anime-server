@@ -1,4 +1,4 @@
 {
   "jwtSecureKey": "mySecureKey",
-  "db": "MONGODB_URL"
+  "db": "mongodb+srv://vinhnguyen221b:12345@cluster0.abcvr.mongodb.net/animestore?retryWrites=true&w=majority"
 }
